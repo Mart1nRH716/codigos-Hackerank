@@ -168,3 +168,5 @@ def queensAttack(n, k, r_q, c_q, obstacles):
 # print(contar_diag_derecha_arriba(5, 4, 3 , [], 0))
 
 print (queensAttack(5, 0, 4, 3, [[5, 5], [4, 2], [2,3]]))
+
+print("actulizando la infio")
